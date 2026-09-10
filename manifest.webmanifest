@@ -1,0 +1,10 @@
+{
+  "name": "簿記1級 一問一答",
+  "short_name": "簿記1級",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111827",
+  "lang": "ja",
+  "description": "日商簿記1級 商業簿記・会計学の一問一答学習アプリ"
+}
